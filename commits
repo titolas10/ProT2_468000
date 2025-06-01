@@ -1,0 +1,4 @@
+git commit -am "Commit inicial - Base del Tramo 1 incluida"
+git commit -am "Agregado el navbar responsive y diseño de cards en sección Quiénes Somos"
+git commit -am "Formulario de login y registro funcional con backend"
+
